@@ -1,4 +1,4 @@
 first_app
 =========
 
-Ma premiere application
+Ma premiere application RoR WoW !!
